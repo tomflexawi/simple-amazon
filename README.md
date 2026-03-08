@@ -1,12 +1,28 @@
 # simple-amazon
-A flexible simple-amazon implementation
+
+## Project Overview
+A flexible implementation of a simple Amazon-like e-commerce system.
+
+## Features
+- User accounts
+- Product listings
+- Shopping cart functionality
+
+## Technologies Used
+- Python
+- Flask
+- SQLite
+
+## Installation
+1. Clone the repository.
+2. Run `pip install -r requirements.txt` to install dependencies.
+
+## Usage
+Run the application with `python app.py`.
+
+## Future Plans
+- Add more features such as payment processing.
+- Improve user interface.
 
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feat/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feat/amazing-feature`)
-5. Open a Pull Request
